@@ -35,23 +35,6 @@ Download the following data from the link beleow
 
   then, Extract the csv. file into Power-BI for cleaning, analysis
   & visualization
-## Project_Segment
- 
- The project include the following segments
-
-Data cleaning : with the help of power query we transform & cleaned the data like edited the date time, then created extra measures like the Total_Bill for further Analysis
-
-Pivot Table:  to simplify analysis we used pivot table to answer the following Questions
-1.	How sales vary by day of week & hour of day
-2.	Are there any peak time for sales activity
-3.	Total sales revenue for each month
-4.	How much sales vary across different store
-5.	What is the locations average price/order per person 
-6.	which products are the best selling in terms of revenue & quantity
-7.	how do sales vary by product category & type.
-
-Dashboard : Final we create the dashboard for presentation so that any individual can understand the data & get insight out of it.
-
 ## VISUALIZATION_[ SHEET_1 ] & INSIGHTS
 ![Screenshot (10)](https://github.com/Akash-Dutta07/AirBnB_Data_Analysis/assets/164155681/b581c8ee-e902-4fed-b0fa-55f4cb799d4b)
 
@@ -152,4 +135,6 @@ Did Certain predictions on (ex: locations, prices, reviews, 	etc)
 Figured out which hosts are the busiest and why?
 
    And, any noticeable difference of traffic among different areas also what could be the reason for it.
+
+
 

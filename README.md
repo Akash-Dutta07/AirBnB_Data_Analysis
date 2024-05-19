@@ -4,7 +4,7 @@
 
 
 
-Airbnb, Inc. is San Francisco, California based company which act as a broker and provides an online marketplace for short-term homestays. 
+**Airbnb**, Inc. is San Francisco, California based company which act as a broker and provides an online marketplace for short-term homestays. 
 
 The company charges a commission from each bookings. 
 
@@ -12,15 +12,15 @@ Aibnb providing it premium service and experience to customers  since 2008. Toda
 
 The dashboard is created using POWER-BI & the concepts used are
   
-1. Power Query for Data cleaning
+1. Power Query for Data cleaning🔧
   
-  2. Different charts ,cards , tables for Visualiation
+  2. Different charts  📈 ,cards, tables 📅for Visualiation
 
   
 
 
 
-## PROBLEM STATEMENT
+## 📄 **PROBLEM STATEMENT**
 Given dataset describes the listing activity and metrics in NYC, NY for 2019. It include all information about host, listed properties, geographical location, prices reviews and all other required metrics. 
 
 Analyse the given dataset make different predictions and draw meaningful conclusion in order to grow the business.
@@ -29,13 +29,14 @@ Also state what can we learn from different predictions
 
 
 
-## DATA SOURCING
+##  ⬇️ **DATA SOURCING**
 Download the following data from the link beleow
+ 
   Dataset: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
   then, Extract the csv. file into Power-BI for cleaning, analysis
   & visualization
-## VISUALIZATION_[ SHEET_1 ] & INSIGHTS
+##  📊 **VISUALIZATION_[ SHEET_1 ] & INSIGHTS**
 ![Screenshot (10)](https://github.com/Akash-Dutta07/AirBnB_Data_Analysis/assets/164155681/b581c8ee-e902-4fed-b0fa-55f4cb799d4b)
 
    First sheet Visualzation....
@@ -89,7 +90,7 @@ Michael is the busiest Host
 ![Screenshot (19)](https://github.com/Akash-Dutta07/AirBnB_Data_Analysis/assets/164155681/da0a0cd9-dbe9-4903-871d-b7deea3791d1)
 
 
-## VISUALIZATION_[ SHEET_2 ] & INSIGHTS
+## 📊 **VISUALIZATION_[ SHEET_2 ] & INSIGHTS**
 ![Screenshot (11)](https://github.com/Akash-Dutta07/AirBnB_Data_Analysis/assets/164155681/3f9eb24b-9cda-408e-9ada-de6731db7caf)
 
 second sheet visualization
@@ -115,7 +116,7 @@ Michael Has maximum  properties listed in neighbourhood groups also he is the bu
 
       Next, we Create a slicer for dates to show last reviewed information
 
-## CONCLUSION
+##  📝 **CONCLUSION**
 So, to conclude...
   By analyzing the given data set customer can make several decision about their journey and the location.
 
